@@ -2,7 +2,7 @@
 
 ## [Problems Link](https://www.codechef.com/LP0TO101)
 
-Last Date: 21 February, 2023
+Last Date: 24 February, 2023
 
 ---
 
@@ -16,3 +16,6 @@ Last Date: 21 February, 2023
 - [Lucky Four](https://www.codechef.com/LP0TO101/problems/LUCKFOUR)
 - [Valid Triangles](https://www.codechef.com/LP0TO101/problems/FLOW013)
 - [Id and Ship](https://www.codechef.com/LP0TO101/problems/FLOW010)
+
+<hr>
+-[warning list: Mim,Moon,Shanta,Fatema,Imran,Tanvir,Ruma, Sajeeb]
