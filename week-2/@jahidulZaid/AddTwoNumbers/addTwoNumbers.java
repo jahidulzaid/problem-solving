@@ -1,13 +1,9 @@
-import java.util.Scanner;
+// Jahidul Islam
+// Problem of Codechef
 
-// Written by: Md. Maruf Sarker
-// Platform: codechef
-// Problem: https://www.codechef.com/LP0TO101/problems/CHOPRT
-// Language: java
-// Date: 2023-02-01
-// Difficulty Rating: 
+import java.util.*;
 
-public class Main {
+public class addTwoNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
@@ -19,5 +15,6 @@ public class Main {
 
             System.out.println(a + b);
         }
+        sc.close();
     }
 }
