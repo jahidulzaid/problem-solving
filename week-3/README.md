@@ -10,3 +10,5 @@
 - [Finding Square Roots](https://www.codechef.com/problems/FSQRT)
 - [The Last Levels](https://www.codechef.com/problems/LASTLEVELS)
 - [X Jumps](https://www.codechef.com/problems/XJUMP)
+
+## warning list: Mim,Rabbi,Fahim,Tamim,Shanta,Fatema,Imran,Tanvir,Ruma,Sajeeb
